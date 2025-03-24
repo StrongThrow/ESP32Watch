@@ -6,6 +6,15 @@ ESP32-2432S028 개발 보드를 활용, WiFi로 인터넷에 연결하여 NTP와
 
 - OTA 업데이트 기능 내장(github의 bin파일을 이용)
 - UI설계는 SquareLine Studio 이용
+
+## WiFi 연결
+
+![Image](https://github.com/user-attachments/assets/b6652f35-ee18-4f3e-ab13-a9e7b6eaddc6)
+
+## 연결된 WiFi 정보 확인 및 OTA 업데이트 체크
+
+![Image](https://github.com/user-attachments/assets/d4fe3026-6de4-47f4-9153-8db1b494c763)
+
   
 | ProFile | Role | Part | Tech Stack |
 |:--------:|:--------:|:--------:|:--------:|
