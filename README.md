@@ -13,7 +13,7 @@ ESP32-2432S028 개발 보드를 활용, WiFi로 인터넷에 연결하여 NTP와
 
 ## 연결된 WiFi 정보 확인 및 OTA 업데이트 체크
 
-![Image](https://github.com/user-attachments/assets/d4fe3026-6de4-47f4-9153-8db1b494c763)
+![Image](https://github.com/user-attachments/assets/81c55287-0b7f-45cd-8831-bb864df67b8c)
 
   
 | ProFile | Role | Part | Tech Stack |
