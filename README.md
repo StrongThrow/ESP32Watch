@@ -19,4 +19,4 @@ ESP32-2432S028 개발 보드를 활용, WiFi로 인터넷에 연결하여 NTP와
   
 | ProFile | Role | Part | Tech Stack |
 |:--------:|:--------:|:--------:|:--------:|
-| ![KakaoTalk_20241113_230554223](https://github.com/user-attachments/assets/986e1819-2d0d-4715-97ce-590ea6495421) <br> [강송구](https://github.com/Throwball99) |   팀원  |   HW, SW |   Atmel Studio, C |
+| ![KakaoTalk_20241113_230554223](https://github.com/user-attachments/assets/986e1819-2d0d-4715-97ce-590ea6495421) <br> [강송구](https://github.com/Throwball99) |   팀원  |   HW, SW |   VS Code, C |
