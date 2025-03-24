@@ -9,11 +9,12 @@ ESP32-2432S028 개발 보드를 활용, WiFi로 인터넷에 연결하여 NTP와
 
 ## WiFi 연결
 
-![Image](https://github.com/user-attachments/assets/b6652f35-ee18-4f3e-ab13-a9e7b6eaddc6)
+![Image](https://github.com/user-attachments/assets/81c55287-0b7f-45cd-8831-bb864df67b8c)
 
 ## 연결된 WiFi 정보 확인 및 OTA 업데이트 체크
 
-![Image](https://github.com/user-attachments/assets/81c55287-0b7f-45cd-8831-bb864df67b8c)
+![Image](https://github.com/user-attachments/assets/fcf5d898-4a45-4b6c-992c-2f8acafe5fc6)
+
 
   
 | ProFile | Role | Part | Tech Stack |
