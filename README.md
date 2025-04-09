@@ -64,19 +64,30 @@ WiFi를 통해 인터넷에 연결하여 **NTP 기반 시각 표시**,
 
 ---
 
-## 📁 디렉토리 구조(수정중)
+## 📁 디렉토리 구조
 
 ```
-ESP32_Watch/
-├── src/
-│   ├── main.cpp
-│   ├── wifi_manager.cpp/.h
-│   ├── ota_manager.cpp/.h
-│   ├── lvgl_gui.cpp/.h
-│   └── weather_api.cpp/.h
-├── include/
-├── data/
-├── platformio.ini
+ESP32Watch/
+├── .vscode/                # VS Code 설정 파일
+├── include/                 # 헤더 파일들 (현재 'README' 만 있음)
+├── lib/                     # 외부 라이브러리들
+│   ├── GifCode/
+│   │   ├── GifCode.c        # GIF 관련 소스
+│   │   ├── GifCode.h        # GIF 관련 헤더
+│   ├── TFT_eSPI/            # TFT 디스플레이 드라이버
+│   ├── cert/                # 인증서 관련
+│   │   └── cert.h           # 인증서 파일
+│   ├── lvgl/                # LVGL 라이브러리
+│   └── lv_lib_gif/          # GIF 라이브러리 관련
+├── src/                     # 소스 코드 (주요 프로그램)
+│   └── main.cpp             # 메인 소스 코드
+├── test/                    # 테스트 관련 파일
+│   ├── .gitignore           # Git 무시 목록
+│   ├── README.md            # 프로젝트 설명
+│   ├── huge_app.csv         # 테스트 데이터
+│   └── platformio.ini       # PlatformIO 설정
+├── platformio.ini           # 프로젝트 설정
+└── README.md                # 프로젝트 설명
 ```
 
 ---
