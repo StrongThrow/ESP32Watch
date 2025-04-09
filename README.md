@@ -83,9 +83,9 @@ ESP32_Watch/
 
 ## 👤 개발자
 
-| 이름 | 역할 | 기술 스택 |
-|------|------|------------|
-| [강송구](https://github.com/Throwball99) | HW + SW 개발 | ESP32, LVGL, OTA, API |
+| 프로필 | 역할  | 담당 부분 | 기술 스택 |
+|--------|-------|----------|-----------|
+| ![강송구](https://github.com/user-attachments/assets/986e1819-2d0d-4715-97ce-590ea6495421) <br> [강송구](https://github.com/StrongThrow) | 팀장  | HW, SW 개발 | ESP32, LVGL, OTA, API |
 
 ---
 
